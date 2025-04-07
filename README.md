@@ -1,48 +1,45 @@
-## Hi there 👋
-
-I'm using ... 🕺🏽
+## Hi 👋
 
 **I love working with**
 
 <div display="flex">
   <img src="https://img.shields.io/badge/python-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-%2300A1DD.svg?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
-
-### 🔭 I’m working on
-
-- Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
-
-### 🌱 I’m learning
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-%2323A1D3.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-%230A1D1D.svg?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ClickHouse-%23000D46.svg?style=for-the-badge&logo=clickhouse&logoColor=white"/>
 </div>
 
-### 🤔 I’m looking for help with
-
-- Integrating AI models to web applications
-
-### 📫 How to reach me
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/codewithbernard/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/CodeWithBernard">
-    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
+  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R%20Shiny-%234286F4.svg?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metabase-%23015B8A.svg?style=for-the-badge&logo=metabase&logoColor=white"/>
+
 </div>
 
-### ⚡ Fun fact
+### 🔭 I’ve experienced on
 
-I'm definitely not a cat person.
+<div display="flex">
+  <img src="https://img.shields.io/badge/Retail-%23007ACC.svg?style=for-the-badge&logo=shopping-cart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FMCG-%2300A1D1.svg?style=for-the-badge&logo=box&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cryptocurrency-%2300A1D1.svg?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+</div>
+
+<div display="flex">
+  <img src="https://img.shields.io/badge/Management%20Consulting-%23007ACC.svg?style=for-the-badge&logo=briefcase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ecommerce-%2300A1D1.svg?style=for-the-badge&logo=shopping-cart&logoColor=white"/>
+</div>
+
+### 🌱 I’m developing
+
+<div display="flex">
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-%2300A1D1.svg?style=for-the-badge&logo=robot&logoColor=white"/>
+</div>
+
